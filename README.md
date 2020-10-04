@@ -6,3 +6,4 @@ Ino Alcaide
 Creación de gráficos avanzados
 Creación en la página location.htm de un mapa interactivo utilizando SVG
 
+En este ejercicio me costó conseguir dibujar los detalles de la insignia
